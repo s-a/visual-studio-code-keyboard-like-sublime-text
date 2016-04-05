@@ -1,0 +1,15 @@
+// Place your key bindings in this file to overwrite the defaults
+[
+    { "key": "ctrl+alt+left",              "command": "workbench.action.navigateBack" },
+    { "key": "ctrl+alt+right",             "command": "workbench.action.navigateForward" },
+    { "key": "ctrl+7",                     "command": "editor.action.blockComment" },
+    { "key": "ctrl+shift+D",               "command": "editor.action.copyLinesDownAction" },
+    { "key": "ctrl+shift+up",              "command": "editor.action.moveLinesUpAction" },
+    { "key": "ctrl+shift+down",            "command": "editor.action.moveLinesDownAction" },    
+    { "key": "ctrl+shift+l",               "command": "workbench.action.files.revealActiveFileInWindows" },  
+    { "key": "alt+left",                   "command": "editor.fold" },  
+    { "key": "alt+right",                  "command": "editor.unfold" },  
+    { "key": "alt+up",                     "command": "editor.action.jumpToBracket" },  
+    { "key": "alt+down",                   "command": "editor.action.jumpToBracket" },  
+    { "key": "alt+f3",                     "command": "editor.action.selectHighlights" }  
+]
