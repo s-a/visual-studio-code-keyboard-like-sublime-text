@@ -6,7 +6,6 @@
     { "key": "ctrl+shift+D",               "command": "editor.action.copyLinesDownAction" },
     { "key": "ctrl+shift+up",              "command": "editor.action.moveLinesUpAction" },
     { "key": "ctrl+shift+down",            "command": "editor.action.moveLinesDownAction" },    
-    { "key": "ctrl+shift+l",               "command": "workbench.action.files.revealActiveFileInWindows" },  
     { "key": "alt+left",                   "command": "editor.fold" },  
     { "key": "alt+right",                  "command": "editor.unfold" },  
     { "key": "alt+up",                     "command": "editor.action.jumpToBracket" },  
