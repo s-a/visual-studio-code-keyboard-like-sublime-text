@@ -11,5 +11,6 @@
     { "key": "alt+up",                     "command": "editor.action.jumpToBracket" },  
     { "key": "alt+down",                   "command": "editor.action.jumpToBracket" },  
     { "key": "alt+f3",                     "command": "editor.action.selectHighlights" },
-    { "key": "ctrl+shift+l",               "command": "editor.action.insertCursorAtEndOfEachLineSelected", "when": "editorTextFocus "}
+    { "key": "ctrl+shift+l",               "command": "editor.action.insertCursorAtEndOfEachLineSelected", "when": "editorTextFocus "},
+    { "key": "ctrl+.",                     "command": "workbench.files.action.focusOpenEditorsView"}
 ]
